@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ISQL</string>
+
+    <string-array name="spiner">
+        <item>Водитель</item>
+        <item>Охранник</item>
+        <item>Механик</item>
+        <item>Менеджер</item>
+        <item>Секретарь</item>
+
+
+    </string-array>
+
+
+</resources>
